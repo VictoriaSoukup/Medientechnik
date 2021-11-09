@@ -26,7 +26,7 @@
 ----------------------------------------------------------------------------------------------------
 Links zu den einzelnen Übungen
 
-(https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung9%20-%20Shop/meineWebsite)
+[Shop](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung9%20-%20Shop/meineWebsite)
 
 [Landschaftsbilder](https://duckduckgo.com)
 
