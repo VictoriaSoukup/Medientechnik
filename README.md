@@ -28,13 +28,13 @@ Links zu den einzelnen Übungen
 
 [Shop](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung9%20-%20Shop/meineWebsite)
 
-[Landschaftsbilder](https://duckduckgo.com)
+[Landschaftsbilder](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung10%20-%20Landschaftsbilder)
 
-[Bildnavigation](https://duckduckgo.com)
+[Bildnavigation](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung11%20-%20Bildnavigation)
 
-[Fire](https://duckduckgo.com)
+[Fire](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung12%20-%20Fire)
 
-[Fire Version 2](https://duckduckgo.com)
+[Fire Version 2](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung14%20-%20Firev2)
 
 [Shop Version 2](https://duckduckgo.com)
 
