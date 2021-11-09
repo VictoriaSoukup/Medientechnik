@@ -36,12 +36,12 @@ Links zu den einzelnen Übungen
 
 [Fire Version 2](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung14%20-%20Firev2)
 
-[Shop Version 2](https://duckduckgo.com)
+[Shop Version 2](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung15%20-%20Websitev2/meineWebsite)
 
-[Artikel (intern)](https://duckduckgo.com)
+[Artikel (intern)](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung16%20-%20Artikel(intern))
 
-[Artikel (extern)](https://duckduckgo.com)
+[Artikel (extern)](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung17%20-%20Artikel(extern))
 
-[IDs und Klassen](https://duckduckgo.com)
+[IDs und Klassen](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung18%20-%20IDs%20und%20Klassen)
 
-[Wetterbericht](https://duckduckgo.com)
+[Wetterbericht](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung19%20-%20Wetterbericht)
