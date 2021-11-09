@@ -25,13 +25,23 @@
 
 ----------------------------------------------------------------------------------------------------
 Links zu den einzelnen Übungen
-![Uebung09] [Shop](https://github.com/VictoriaSoukup/Medientechnik/tree/main/Uebung9%20-%20Shop/meineWebsite)
-![Uebung10] [Landschaftsbilder](https://duckduckgo.com)
-![Uebung11] [Bildnavigation](https://duckduckgo.com)
-![Uebung12] [Fire](https://duckduckgo.com)
-![Uebung14] [Fire Version 2](https://duckduckgo.com)
-![Uebung15] [Shop Version 2](https://duckduckgo.com)
-![Uebung16] [Artikel (intern)](https://duckduckgo.com)
-![Uebung17] [Artikel (extern)](https://duckduckgo.com)
-![Uebung18] [IDs und Klassen](https://duckduckgo.com)
-![Uebung19] [Wetterbericht](https://duckduckgo.com)
+[Shop](https://github.com/VictoriaSoukup/Medientechnik/tree/main/
+Uebung9%20-%20Shop/meineWebsite)
+
+[Landschaftsbilder](https://duckduckgo.com)
+
+[Bildnavigation](https://duckduckgo.com)
+
+[Fire](https://duckduckgo.com)
+
+[Fire Version 2](https://duckduckgo.com)
+
+[Shop Version 2](https://duckduckgo.com)
+
+[Artikel (intern)](https://duckduckgo.com)
+
+[Artikel (extern)](https://duckduckgo.com)
+
+[IDs und Klassen](https://duckduckgo.com)
+
+[Wetterbericht](https://duckduckgo.com)
