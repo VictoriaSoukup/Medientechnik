@@ -1,7 +1,7 @@
 # Medientechnik
 **Medientechnik beschäftigt sich mit HTML und CSS Files, Javascript und generellen Website-Oberflächen Entwicklung.**
 
-Übungen vom letzten Jahr:
+Übungen vom letzten Jahr (Nummern und Beschreibung):
 1. Uebung09 - Shop
 - Nachbau eines Shops mit verchiedenen Unterseiten (ohne Css).
 2. Uebung10 - Landschaftsbilder
@@ -22,3 +22,6 @@
 - Verschiedene Arten von IDs und Klassen als Übung.
 10. Uebung19 - Wetterbericht
 - Eine Seite auf der einem der Wetterbericht für die nächsten Tage mit Symbolen angezeigt wird.
+
+----------------------------------------------------------------------------------------------------
+Links zu den einzelnen Übungen
